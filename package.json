@@ -1,0 +1,27 @@
+{
+  "name": "telegram-file-fetcher",
+  "version": "0.0.2",
+  "description": "A simple Node app built on Express, which uses a Telegram file-id to download a file.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "request": "^2.88.0"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://github.com/AnTheMaker/telegram-file-fetcher"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "express",
+    "telegram",
+    "files",
+    "download"
+  ]
+}
